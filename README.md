@@ -1,1 +1,1 @@
-# Text-analyzer-using-python-Django-projec
+# Text-analyzer-using-python-Django-project
